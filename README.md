@@ -34,7 +34,7 @@ class Amritha:
             "GPT-4", "Claude", "Gemini Pro", "Groq API"
         ]
 
-        self.currently_learning = [
+        self.expertised in = [
             "🧱 Agentic Systems  → Multi-Agent Orchestration, A2A Protocol",
             "🏥 Healthcare AI    → DICOM, MedGemma, MAIRA-2, BioMedGPT",
             "⚡ Salesforce AI    → Agentforce, Flow Builder, SOQL",
@@ -148,14 +148,6 @@ class Amritha:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrithajoki&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
----
-
-<!-- TROPHY WALL -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amrithajoki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
