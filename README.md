@@ -23,12 +23,13 @@ class Amritha:
     def __init__(self):
         self.name           = "Amritha Krishnakumar Joki"
         self.username       = "amrithajoki"
-        self.location       = "Tamil Nadu, India 🇮🇳  |  U.S. Work Authorized 🇺🇸"
-        self.degree         = "B.Tech – Artificial Intelligence & Data Science (2026)"
+        self.location       = "Tamil Nadu, India 🇮🇳  | U.S Citizen entitled to work in United States without Sponsorship
+        self.degree         = "B.Tech – Artificial Intelligence & Data Science (2022 - 2026)"
         self.email          = "amrithajoki04@gmail.com"
 
         self.stack = [
-            "Python", "LangChain", "CrewAI", "LangFlow",
+            "Python", "Prompt Engineering", "LifeScience AI",
+             "LangChain", "CrewAI", "LangFlow","R&D with AI",
             "MCP Protocol", "FastMCP", "Agentforce",
             "ChromaDB", "MONAI", "PyTorch", "TensorFlow",
             "GPT-4", "Claude", "Gemini Pro", "Groq API"
@@ -38,7 +39,7 @@ class Amritha:
             "🧱 Agentic Systems  → Multi-Agent Orchestration, A2A Protocol",
             "🏥 Healthcare AI    → DICOM, MedGemma, MAIRA-2, BioMedGPT",
             "⚡ Salesforce AI    → Agentforce, Flow Builder, SOQL",
-            "🔗 MCP Protocol     → FastMCP, Context Engineering",
+            "🔗 MCP Protocol     → FastMCP, Context Engineering , Harness Engineering",
         ]
 
         self.fun_fact = "I built an AI reading companion for dyslexic students on Raspberry Pi! 🍓"
