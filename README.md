@@ -117,28 +117,6 @@ class Amritha:
   <img src="https://img.shields.io/badge/REST_APIs-0096D6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
----
-
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/amrithajoki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrithajoki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/amrithajoki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrithajoki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-<!-- STREAK STATS -->
-<h2 align="center">🔥 Streak Stats</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrithajoki&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
